@@ -1,4 +1,4 @@
-// Rhombus
+
 
 #include <iostream>
 using namespace std;
